@@ -21,4 +21,5 @@ npm i ou npm install
 npm run start
 ```
 
+go to `http://localhost:3000/` to use application<br><br>
 for more informations contact [me](mailto:mtchokos@gmail.com)
